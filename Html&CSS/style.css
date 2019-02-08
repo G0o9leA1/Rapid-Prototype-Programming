@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+}
+h1 {
+    color: aqua;
+    text-shadow: 1px 2px 2px brown;
+    text-align: center;
+    font: 40px/20px Verdana, Arial, fantasy;
+}
+
+h2 {
+    color:Red;
+    text-shadow: 1px 2px 2px brown;
+    text-align: center;
+    font: 25px/25px Verdana, Arial, fantasy;
+}
+div.box {
+    width: 500px;
+    margin:0 auto;
+    padding: 25px;
+    border: 10px solid red;
+}
+form {
+    margin-left: 650px;
+}
+p {
+    color:Red;
+    text-align: center;
+}

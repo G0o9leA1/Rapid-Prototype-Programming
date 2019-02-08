@@ -1,0 +1,72 @@
+html {
+    background-color: #4069a3;
+    color: white;
+}
+
+form, p, input {
+    display:inline;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+}
+
+input {
+    padding: 5px;
+    font-size: 14px;
+}
+
+div {
+    margin-left:auto; 
+    margin-right:auto;
+    width: 80%;
+    padding: 10px;
+    font-size: 18px;
+}
+
+.signbutton {
+    background-color: #1c283a;
+    padding: 10px 20px;
+    font-size: 20px;
+    border-radius: 6px;
+    color: white;
+    margin: 10px;
+}
+
+.fa-folder {
+    margin-right: 10px;
+}
+
+.fa-file {
+    margin-right: 14px;
+}
+
+.center {
+    text-align: center;
+}
+
+.left {
+    width: 100%;
+    margin: 0;
+}
+
+.box-margin {
+    margin: 10% 10% 0 10%;
+}
+
+.item {
+    padding: 0;
+    margin-top: 10px;
+}
+
+.message {
+    display: block;
+    width: 50%;
+    border: 1px solid white;
+    padding: 10px 20px;
+    border-radius: 6px;
+    font-size: 20px;
+    margin: 10px auto;
+    text-align: center;
+}
