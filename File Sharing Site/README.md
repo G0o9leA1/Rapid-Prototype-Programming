@@ -2,6 +2,8 @@
 
 ![alt text](https://img.shields.io/badge/HTML-5.0-green.svg)  ![alt text](https://img.shields.io/badge/CSS-red.svg)![alt text](https://img.shields.io/badge/php-7.0-blue.svg)![alt text](https://img.shields.io/badge/apache-2.0-green.svg)![alt text](https://img.shields.io/badge/W3C-passed-blue.svg)
 
+http://ec2-3-17-140-54.us-east-2.compute.amazonaws.com/~group/module2/index.php
+
 ## Required Features
 
 ### File Management (25 Points):
@@ -43,4 +45,4 @@ Note: If using session variables, you must actually log out the user by destroyi
 * Valid filename (and foldername): the filename or the foldername is only allowed to contain letters within "0-9, a-z, A-Z, _, ., -"
 * The prompt message (e.g. error message) is displayed at the bottom.
 
-http://ec2-3-17-140-54.us-east-2.compute.amazonaws.com/~group/module2/index.php
+
