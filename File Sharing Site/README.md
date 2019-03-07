@@ -1,11 +1,6 @@
 # Module2: File Sharing Site
 
-![alt text](https://img.shields.io/badge/HTML-5.0-green.svg)  
-![alt text](https://img.shields.io/badge/CSS-red.svg)
-![alt text](https://img.shields.io/badge/php-7.0-blue.svg)
-![alt text](https://img.shields.io/badge/apache-2.0-green.svg)
-![alt text](https://img.shields.io/badge/W3C-passed-blue.svg)
-#
+![alt text](https://img.shields.io/badge/HTML-5.0-green.svg)  ![alt text](https://img.shields.io/badge/CSS-red.svg)![alt text](https://img.shields.io/badge/php-7.0-blue.svg)![alt text](https://img.shields.io/badge/apache-2.0-green.svg)![alt text](https://img.shields.io/badge/W3C-passed-blue.svg)
 
 ## Required Features
 
