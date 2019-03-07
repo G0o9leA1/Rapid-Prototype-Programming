@@ -1,15 +1,14 @@
 # CSE330 Module2 Individual assignment
-#
 ![alt text](https://img.shields.io/badge/php-7.0-blue.svg)
+![alt text](https://img.shields.io/badge/W3C-passed-blue.svg)
 
-### Source Code:
-  - Calculator.php is the source code of the php calculator
+### PHP Calculator (15 Points):
+- The calculator is able to perform all four functions with floating point numbers (2 points each, 8 points in total)
+- Each function is given as a radio button choice (4 points)
+- The calculator page passes the W3C HTML validator (3 points)
 
 ### Website link:
-  - [sample file in UserDir](http://ec2-18-217-179-154.us-east-2.compute.amazonaws.com/~z1xuan/hello.txt)
-  - [php calculator](http://ec2-18-217-179-154.us-east-2.compute.amazonaws.com/~z1xuan/calculator.php)
-
+- [php calculator](http://ec2-18-217-179-154.us-east-2.compute.amazonaws.com/~z1xuan/calculator.php)
 
 ### Notice:
-  - All the screenshots you required is in the screenshot.png
-  - For the convenience of the user, if only one input number is missing, it will be considered as ZERO.
+- For the convenience of the user, if only one input number is missing, it will be considered as ZERO.
