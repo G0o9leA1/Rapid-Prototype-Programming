@@ -1,4 +1,5 @@
 # CSE330 Module2 Individual assignment
+![alt text](https://img.shields.io/badge/HTML-5.0-green.svg)
 ![alt text](https://img.shields.io/badge/php-7.0-blue.svg)
 ![alt text](https://img.shields.io/badge/W3C-passed-blue.svg)
 
