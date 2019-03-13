@@ -6,6 +6,8 @@
 ### Course Website link:
   - [E81 CSE 503S: Rapid Prototype-Development and Creative Programming](https://classes.engineering.wustl.edu/cse330/index.php)
 
+### Authors:
+  - Chengyue Gong and Zixuan Li
 
 ### Copyright:
   - If you are students of Washington University in St. Louis, you should cite properly and do not violate the academic integrity when you using this code.
